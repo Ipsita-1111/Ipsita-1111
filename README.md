@@ -1,5 +1,5 @@
-# 💫 About Me:
- ## About Me :<br><br>🔭 I’m currently working on  <br>- Strengthening my core CS concepts (DSA, Algorithms)  <br>- Building projects in web development & exploring creative tech ideas  <br>- Improving problem-solving and coding consistency  <br><br>👯 I’m looking to collaborate on  <br>- Beginner to intermediate level tech projects  <br>- Open source contributions  <br>- Creative projects combining design + development  <br><br>🤝 I’m looking for help with  <br>- Advanced DSA & competitive programming  <br>- Backend development and real-world applications  <br>- Guidance on building impactful projects  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms  <br>- Web Development  <br>- Java, C & Python (improving concepts and implementation)  <br><br>💬 Ask me about  <br>- Coding basics (C, Python, Java)  <br>- Getting started with tech & projects  <br>- Books, productivity, and student life  <br><br>⚡ Fun fact  <br>- I'm a book lover 📚, a Swiftie 🎶, and a huge F1 fan 🏎️  <br>- I love graphic designing, being creative, and expressing ideas through design + communication  <br>- My speaking and presentation skills are one of my biggest strengths!
+# About Me:
+ ## About Me :<br><br>🔭 I’m currently working on  <br>- Strengthening my core CS concepts (DSA, Algorithms)  <br>- Building projects in web development & exploring creative tech ideas  <br>- Improving problem-solving and coding consistency  <br><br> I’m looking to collaborate on  <br>- Beginner to intermediate level tech projects  <br>- Open source contributions  <br>- Creative projects combining design + development  <br><br>🤝 I’m looking for help with  <br>- Advanced DSA & competitive programming  <br>- Backend development and real-world applications  <br>- Guidance on building impactful projects  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms  <br>- Web Development  <br>- Java, C & Python (improving concepts and implementation)  <br><br>💬 Ask me about  <br>- Coding basics (C, Python, Java)  <br>- Getting started with tech & projects  <br>- Books, productivity, and student life  <br><br>⚡ Fun fact  <br>- I'm a book lover 📚, a Swiftie 🎶, and a huge F1 fan 🏎️  <br>- I love graphic designing, being creative, and expressing ideas through design + communication  <br>- My speaking and presentation skills are one of my biggest strengths!
 
 
 ## 🌐 Socials:
@@ -15,8 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ipsita-1111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✨ Quote of the Moment
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ipsita-1111&limit=5&theme=dark&combine_all_yearly_contributions=true)
